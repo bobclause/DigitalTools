@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         FB Scraper
-// @namespace    http://ufcw367.org/digitaltools/scripts
+// @namespace    https://github.com/bobclause/DigitalTools/blob/main/FBScraper.user.js
 // @version      0.1
 // @description  Scrapes information from Facebook pages and exports to .xlsx using sheetjs
 // @match        https://www.facebook.com/*
